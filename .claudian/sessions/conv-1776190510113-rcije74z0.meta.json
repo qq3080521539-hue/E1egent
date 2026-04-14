@@ -1,12 +1,23 @@
 {
   "id": "conv-1776190510113-rcije74z0",
   "providerId": "claude",
-  "title": "散文写作指令",
-  "titleGenerationStatus": "failed",
+  "title": "Greet the user",
+  "titleGenerationStatus": "success",
   "createdAt": 1776190510117,
-  "updatedAt": 1776191045517,
-  "lastResponseAt": 1776191045517,
-  "sessionId": null,
-  "providerState": {},
-  "currentNote": "ai/散文.md"
+  "updatedAt": 1776191803117,
+  "lastResponseAt": 1776191803117,
+  "sessionId": "d9d16e0e-1f49-4b7c-8eed-30d8ef5a5dc7",
+  "providerState": {
+    "providerSessionId": "d9d16e0e-1f49-4b7c-8eed-30d8ef5a5dc7"
+  },
+  "currentNote": "ai/散文.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
 }

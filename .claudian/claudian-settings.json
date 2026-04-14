@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "haiku",
   "thinkingBudget": "off",
-  "effortLevel": "max",
+  "effortLevel": "medium",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -23,7 +23,7 @@
   "providerConfigs": {
     "claude": {
       "safeMode": "acceptEdits",
-      "cliPath": "E:\\code\\claude.cmd",
+      "cliPath": "E:\\code\\node_modules\\@anthropic-ai\\claude-code\\cli.js",
       "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": true,
@@ -53,7 +53,7 @@
     "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "max"
+    "claude": "medium"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {
