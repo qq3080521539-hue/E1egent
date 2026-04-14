@@ -19,14 +19,14 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "locale": "en",
+  "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
       "safeMode": "acceptEdits",
-      "cliPath": "",
+      "cliPath": "E:\\code\\claude.cmd",
       "cliPathsByHost": {},
       "loadUserSettings": true,
-      "enableChrome": false,
+      "enableChrome": true,
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
@@ -42,9 +42,9 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethod": "native-windows",
-      "installationMethodsByHost": {},
-      "wslDistroOverride": "",
+      "installationMethodsByHost": {
+        "LAPTOP-O0110UKR": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     }
   },
